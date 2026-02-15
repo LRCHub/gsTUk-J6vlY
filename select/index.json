@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "GUN POWDER",
+  "base_artist": "TOOBOE",
+  "createdAt": "2026-02-15T11:37:29.179000Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gun Powder",
+      "artist": "Quando Rondo",
+      "has_synced": true,
+      "path": "select/01_Gun_Powder_Quando_Rondo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "High Off Gun Powder",
+      "artist": "Fredo Santana feat. Kodak Black & Chief Keef",
+      "has_synced": false,
+      "path": "select/02_High_Off_Gun_Powder_Fredo_Santana_feat._Kodak_Black_&_Chief_Keef.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "High Off Gun Powder (feat. Kodak Black & Chief Keef)",
+      "artist": "Fredo Santana",
+      "has_synced": false,
+      "path": "select/03_High_Off_Gun_Powder_(feat._Kodak_Black_&_Chief_Keef)_Fredo_Santana.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gun Powder",
+      "artist": "Quando Rondo",
+      "has_synced": false,
+      "path": "select/04_Gun_Powder_Quando_Rondo.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "High Off Gun Powder",
+      "artist": "Fredo Santana",
+      "has_synced": true,
+      "path": "select/05_High_Off_Gun_Powder_Fredo_Santana.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "High Off Gun Powder",
+      "artist": "Fredo Santana, Chief Keef & Kodak Black",
+      "has_synced": true,
+      "path": "select/06_High_Off_Gun_Powder_Fredo_Santana,_Chief_Keef_&_Kodak_Black.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "High Off Gun Powder",
+      "artist": "Fredo Santana, Chief Keef",
+      "has_synced": true,
+      "path": "select/07_High_Off_Gun_Powder_Fredo_Santana,_Chief_Keef.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "High Off Gun Powder",
+      "artist": "Santana, Fredo, Chief Keef & Kodak Black",
+      "has_synced": true,
+      "path": "select/08_High_Off_Gun_Powder_Santana,_Fredo,_Chief_Keef_&_Kodak_Black.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gun Powder And Lead",
+      "artist": "Miranda Lambert",
+      "has_synced": true,
+      "path": "select/09_Gun_Powder_And_Lead_Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "High Off Gun Powder ft. Kodak Black & Chief Keef",
+      "artist": "Fredo Santana",
+      "has_synced": true,
+      "path": "select/10_High_Off_Gun_Powder_ft._Kodak_Black_&_Chief_Keef_Fredo_Santana.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "BAROOD (GUN POWDER)",
+      "artist": "Arabian Alien",
+      "has_synced": false,
+      "path": "select/11_BAROOD_(GUN_POWDER)_Arabian_Alien.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GUN POWDER",
+      "artist": "TOOBOE",
+      "has_synced": false,
+      "path": "select/pl_01_GUN_POWDER_TOOBOE.txt"
+    }
+  ]
+}
